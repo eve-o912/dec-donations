@@ -5,6 +5,7 @@
     "private": true,
     "author": "Everlyne Wangui",
     "license": "MIT",
+    "type":"module",
     "scripts": {
         "react-app:dev": "yarn workspace @dec-donations/react-app dev",
         "react-app:build": "yarn workspace @dec-donations/react-app build",

@@ -95,3 +95,4 @@ This project is licensed under the MIT License.
     "react-app:lint": "yarn workspace @scaffold-lisk/react-app lint",
     "hardhat:compile": "yarn workspace @scaffold-lisk/hardhat compile"
   }, -->
+  
